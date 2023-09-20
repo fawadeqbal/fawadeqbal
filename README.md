@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a versatile developer with expertise in web technologies like Next.js and the MERN stack, as well as a passion for embedded programming, mobile app development with React Native, Java desktop applications, and DevOps practices. <br>I enjoy crafting innovative solutions that bridge the gap between software and hardware.
+I'm a versatile developer with expertise in web technologies like Next.js and the MERN stack, as well as a passion for embedded programming, mobile app development with React Native, Java desktop applications, and DevOps practices. I enjoy crafting innovative solutions that bridge the gap between software and hardware.
 
 
 ## 🌐 Socials:
