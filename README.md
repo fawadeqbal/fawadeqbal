@@ -13,7 +13,7 @@ I'm a versatile developer with expertise in web technologies like Next.js and th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fawadeqbal&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fawadeqbal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=fawadeqbal&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
