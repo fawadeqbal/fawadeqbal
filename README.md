@@ -15,7 +15,7 @@ I'm a versatile developer with expertise in web technologies like Next.js and th
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fawadeqbal&limit=5&theme=light&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
