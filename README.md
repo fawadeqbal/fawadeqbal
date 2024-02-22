@@ -18,6 +18,7 @@ I'm a versatile developer with expertise in web technologies like Next.js and th
 
 ### 🌟 Important Repository
 [![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=ems&theme=default_repocard)](https://github.com/fawadeqbal/ems)
+[![Point of Sale](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=pos&theme=default_repocard)](https://github.com/fawadeqbal/pos)
 
 
 ### 🔝 Top Contributed Repo
