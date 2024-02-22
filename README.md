@@ -12,6 +12,10 @@ I'm a versatile developer with expertise in web technologies like Next.js and th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fawadeqbal&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fawadeqbal&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🌟 Important Repository
+[![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=ems&theme=light)](https://github.com/fawadeqbal/ems)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fawadeqbal&limit=5&theme=light&combine_all_yearly_contributions=true)
 
