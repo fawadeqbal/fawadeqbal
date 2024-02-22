@@ -14,6 +14,8 @@ I'm a versatile developer with expertise in web technologies like Next.js and th
 
 ### 🌟 Important Repository
 [![Important Repository](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=ems&theme=light)](https://github.com/fawadeqbal/ems)
+[![Important Repository](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=pos&theme=light)](https://github.com/fawadeqbal/pos)
+[![Important Repository](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=UAMS&theme=light)](https://github.com/fawadeqbal/UAMS)
 
 
 ### 🔝 Top Contributed Repositories
