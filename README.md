@@ -14,8 +14,7 @@ I'm a versatile developer with expertise in web technologies like Next.js and th
 
 
 ### 🌟 Important Links:
-- [Portfolio Website](https://yourportfolio.com)
-- [Resume/CV](https://yourresume.com)
+- [Resume/CV](https://github.com/fawadeqbal/fawadeqbal/blob/main/Fawad%20Iqbal.pdf)
 
 ### 🌟 Important Repository
 [![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=ems&theme=default_repocard)](https://github.com/fawadeqbal/ems)
