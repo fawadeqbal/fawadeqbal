@@ -1,22 +1,16 @@
-# 💫 About Me:
+# 💫 Introduction:
 
-Hey there! 👋 I'm a versatile developer with a passion for crafting innovative solutions that bridge the gap between software and hardware.
+Versatile developer passionate about crafting innovative solutions bridging software and hardware.
 
-## 🌐 Web Technologies:
-I specialize in **Next.js** and the **MERN stack**, creating dynamic and responsive web applications.
+Specialize in Next.js and the MERN stack for dynamic, responsive web applications.
 
-## 📱 Mobile App Development:
-I love diving into mobile app development using **React Native**, building intuitive and powerful apps for both iOS and Android platforms.
+Proficient in React Native, creating intuitive, powerful apps for iOS and Android.
 
-## 💻 Desktop Applications:
-With **Java**, I create robust and user-friendly desktop applications that cater to diverse user needs.
+Skilled in Java for developing robust, user-friendly desktop applications.
 
-## ⚙️ Embedded Programming:
-I enjoy exploring the world of embedded programming, bringing software to life in the realm of hardware.
+Experienced in embedded programming, bringing software to life in hardware.
 
-## 🚀 DevOps Practices:
-I'm adept at implementing **DevOps practices**, ensuring seamless integration and deployment of software solutions.
-
+Adept at implementing DevOps practices for seamless integration and deployment.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fawadeqbal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fawadeqbal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fawadeqbal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fawadeqbal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fawadeqbal) 
