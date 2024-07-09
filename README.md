@@ -1,4 +1,5 @@
-💫 Introduction:
+## 💫 Introduction:
+
 I am a versatile software developer from Pakistan, passionate about crafting innovative solutions bridging software and hardware.
 
 I specialize in Next.js and the MERN stack for dynamic, responsive web applications. Proficient in React Native, I create intuitive, powerful apps for iOS and Android. My skills extend to Java for developing robust, user-friendly desktop applications, and I have substantial experience in embedded programming, bringing software to life in hardware. I am also adept at implementing DevOps practices for seamless integration and deployment.
