@@ -1,16 +1,9 @@
-# 💫 Introduction:
+💫 Introduction:
+I am a versatile software developer from Pakistan, passionate about crafting innovative solutions bridging software and hardware.
 
-Versatile developer passionate about crafting innovative solutions bridging software and hardware.
+I specialize in Next.js and the MERN stack for dynamic, responsive web applications. Proficient in React Native, I create intuitive, powerful apps for iOS and Android. My skills extend to Java for developing robust, user-friendly desktop applications, and I have substantial experience in embedded programming, bringing software to life in hardware. I am also adept at implementing DevOps practices for seamless integration and deployment.
 
-Specialize in Next.js and the MERN stack for dynamic, responsive web applications.
-
-Proficient in React Native, creating intuitive, powerful apps for iOS and Android.
-
-Skilled in Java for developing robust, user-friendly desktop applications.
-
-Experienced in embedded programming, bringing software to life in hardware.
-
-Adept at implementing DevOps practices for seamless integration and deployment.
+I enjoy exploring new technologies, including AI, machine learning, deep learning, generative AI, and image processing. My interests span software testing (web UI testing using Selenium and TestNG), integration testing, unit testing, networking fundamentals, mobile app development, Java OOP principles, desktop app development, IoT, and automation using microcontrollers.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fawadeqbal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fawadeqbal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fawadeqbal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fawadeqbal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fawadeqbal) 
