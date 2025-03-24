@@ -18,7 +18,7 @@ I enjoy exploring new technologies, including AI, machine learning, deep learnin
 
 
 ### 🌟 Important Links:
-- [![Resume/CV](https://github.com/fawadeqbal/fawadeqbal/blob/main/FAWAD%20IQBAL%20(CV).pdf)]
+- [![Resume/CV]([https://github.com/fawadeqbal/fawadeqbal/blob/main/FAWAD%20IQBAL%20(CV).pdf](https://github.com/fawadeqbal/fawadeqbal/blob/main/FawadIqbalResume.pdf))]
 
 ### 🌟 Important Repository
 [![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=fawadeqbal&repo=ems&theme=default_repocard)](https://github.com/fawadeqbal/ems)
