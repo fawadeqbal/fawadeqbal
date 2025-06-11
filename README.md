@@ -40,7 +40,7 @@ Hi! I'm **Fawad Iqbal**, a passionate Software Engineer from Pakistan with a str
 `Arduino` • `Raspberry Pi` • `C for Microcontrollers` • `Sensors` • `Relays` • `NodeMCU` • `IoT Automation`
 
 ### 🧰 Tools & Platforms  
-`VS Code` • `Android Studio` • `GitHub` • `Linux` • `Notion` • `Trello` • `Figma` • `Arduino IDE`
+`VS Code` • `Android Studio` • `GitHub` • `Linux` • `MITK` • `Trello` • `Figma` • `Arduino IDE`
 
 ---
 
