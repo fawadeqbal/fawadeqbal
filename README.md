@@ -65,9 +65,9 @@ Hi! I'm **Fawad Iqbal**, a passionate Software Engineer from Pakistan with a str
 
 ## 📬 Contact
 
-- 📧 Email: **fawadiqbalxyz@gmail.com**  
+- 📧 Email: **fawadeqbal@gmail.com**  
 - 💬 WhatsApp: [+92 314 9972883](https://wa.me/923149972883)  
-- 🧑‍💻 Portfolio: *Coming soon...*
+- 🧑‍💻 Portfolio: [Portfolio](https://linktr.ee/fawadiqbal))
 
 ---
 
