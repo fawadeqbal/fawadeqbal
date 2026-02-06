@@ -78,7 +78,7 @@ Hi! I'm **Fawad Iqbal**, a passionate Software Engineer from Pakistan with a str
 
 ## 📄 Resume
 
-- [View My Resume (PDF)](https://github.com/fawadeqbal/fawadeqbal/blob/main/FawadIqbalResume.pdf)
+- [View My Resume (PDF)](https://www.fawadiqbal.dev/cv/Fawad%20Iqbal%20Resume.pdf)
 
 ---
 
