@@ -125,7 +125,7 @@ const fawad: Engineer = {
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=fawadeqbal&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=C9D1D9" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadeqbal&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9" alt="languages" />
 
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=fawadeqbal&hide_border=true&border_radius=12&theme=tokyonight&background=0D1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=fawadeqbal&hide_border=true&border_radius=12&theme=tokyonight&background=0D1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=fawadeqbal&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" width="92%" alt="trophies" />
 
